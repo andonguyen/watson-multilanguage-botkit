@@ -8,4 +8,4 @@ Follow [botkit-middleware](https://github.com/watson-developer-cloud/botkit-midd
 
 You'll need to have a Bluemix account to create an instance of Language Translator and Watson Conversation service and deploy the sample app. If you don't have an account, you can register a free trial account [here](https://console.ng.bluemix.net/registration/)
 
-Create a Language Translator and Watson Conversation service instance via the Bluemix catalogue
+Create a Language Translator and Watson Conversation service instance via the Bluemix catalogue (./images/Bluemix_Catalog_Watson.png)

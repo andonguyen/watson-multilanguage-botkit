@@ -11,6 +11,6 @@ services:
 - Conversation-8s
 - Language Translator-ln
 env:
-  CONVERSATION_WORKSPACE_ID:
-  CONVERSATION_WORKSPACE_ID_fr:
-  SLACK_TOKEN: 
+  CONVERSATION_WORKSPACE_ID: default conversation workspace ID
+  CONVERSATION_WORKSPACE_ID_fr: conversation workspace ID for French language
+  SLACK_TOKEN: Bot User OAuth Access Token
